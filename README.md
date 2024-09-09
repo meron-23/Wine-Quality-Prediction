@@ -93,11 +93,10 @@ The project requires the following Python packages:
 - **pandas**
 - **matplotlib**
 - **scikit-learn**
-- **jupyter**
 
 **These can be installed using pip:**
    
    ```bash
-   pip install numpy pandas matplotlib scikit-learn jupyter
+   pip install numpy pandas matplotlib scikit-learn 
 
 
