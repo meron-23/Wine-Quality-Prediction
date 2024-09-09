@@ -96,9 +96,8 @@ The project requires the following Python packages:
 - **jupyter**
 
 **These can be installed using pip:**
+   
    ```bash
    pip install numpy pandas matplotlib scikit-learn jupyter
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
