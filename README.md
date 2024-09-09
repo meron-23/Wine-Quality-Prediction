@@ -70,19 +70,20 @@ To run the analysis and train the model, follow these steps:
    git clone https://github.com/yourusername/wine-quality-prediction.git
 2. **Navigate to the Project Directory**
 
-```bash
-cd wine-quality-prediction
-Install Dependencies
+   ```bash
+   cd wine-quality-prediction
+   Install Dependencies
+   
 3. **Create a virtual environment and install the necessary packages:**
 
-```bash
-pip install -r requirements.txt
-Run the Notebooks
+   ```bash
+   pip install -r requirements.txt
+   Run the Notebooks
 
 4. **Open the Jupyter Notebooks:**
 
-```bash
-jupyter notebook
+   ```bash
+   jupyter notebook
 Navigate to the notebook files and execute the cells to replicate the analysis.
 
 ## Requirements
@@ -95,8 +96,8 @@ The project requires the following Python packages:
 - **jupyter**
 
 **These can be installed using pip:**
-```bash
-pip install numpy pandas matplotlib scikit-learn jupyter
+   ```bash
+   pip install numpy pandas matplotlib scikit-learn jupyter
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
